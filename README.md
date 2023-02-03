@@ -1,12 +1,18 @@
-# Readme document
-- project name
-- project description
-- about it
-
-1. item 1
-1. item 2
-
+# README Document
+## Project Name
+Redemter's webpage project
+## Author
+Redemter/ <redemtterita@gmail.com>
+## Project description
+A simple website to give a glimpse of my imagination
+## Setup Instructions
+- Access my repository: https://github.com/Redemter/week1-ip
+- Fork it
+- Clone it to your local repository
+- Review
 ## Live Link
 https://Redemter.github.io/week1-ip
 
-git commit -am "message" //Add and commit at the same time
+## License and Copyright
+Licesed by myself for myself
+Redemter@2023
