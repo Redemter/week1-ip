@@ -15,4 +15,3 @@ https://redemter.github.io/week1-ip/
 
 ## License and Copyright
 Licensed by me for myself
-Redemter@2023
