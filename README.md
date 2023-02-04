@@ -14,5 +14,5 @@ A simple website to give a glimpse of my imagination
 https://Redemter.github.io/week1-ip
 
 ## License and Copyright
-Licesed by myself for myself
+Licesed by me for myself
 Redemter@2023
