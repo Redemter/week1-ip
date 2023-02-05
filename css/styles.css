@@ -17,9 +17,13 @@ table {
   border-style: double;
   border-style: solid;
 }
-th, td {
+th,
+td {
   border: 1px solid black;
- }
+}
 div {
-    background-color: lightcyan;
+  background-color: lightcyan;
+}
+img {
+    float: none;
 }
