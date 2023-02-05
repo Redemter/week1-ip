@@ -4,11 +4,11 @@ body {
   text-align: start;
 }
 h1 {
-  color: blueviolet;
+  color: navy;
   text-align: left;
 }
 h3 {
-  color: violet;
+  color: darkblue;
   text-align: left;
   font-style: italic;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
@@ -20,3 +20,6 @@ table {
 th, td {
   border: 1px solid black;
  }
+div {
+    background-color: aquamarine;
+}
