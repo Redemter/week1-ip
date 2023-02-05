@@ -13,3 +13,11 @@ h3 {
   font-style: italic;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
+table {
+  border-style: double;
+  border-style: solid;
+}
+th,
+td {
+  border: 1px solid black;
+}
